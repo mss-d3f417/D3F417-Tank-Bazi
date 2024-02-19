@@ -10,6 +10,7 @@
 🥷 Warning : 
 
 We’ll also need to install [the Python 3.7 ](https://www.python.org/downloads/release/python-370/)
+
 And Need Install PyGame > pip install pygame==2.1.3.dev8
 
 ## Support
