@@ -39,3 +39,4 @@ And Need Install PyGame > pip install pygame==2.1.3.dev8
 ## Preview Script 🥷
 
 ![enter image description here](https://s8.uupload.ir/files/bandicam_2024-02-19_01-13-01-716_3a3q.jpg)
+![enter image description here](https://s8.uupload.ir/files/1111111111_dulx.png)
