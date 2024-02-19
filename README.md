@@ -24,7 +24,7 @@ And Need Install PyGame > pip install pygame==2.1.3.dev8
 
 2. Download Script
 
-> Donwload  From : [Link](https://github.com/mss-d3f417/Currency-Converter.git)
+> Donwload  From : [Link](https://github.com/mss-d3f417/D3F417-Tank-Bazi/archive/refs/heads/main.zip)
 
  3. Insstall Req 🥷
 
